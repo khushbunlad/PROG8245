@@ -42,5 +42,6 @@ stack-data==0.6.3
 tornado==6.4.1
 tqdm==4.67.1
 traitlets==5.14.3
+typing_extensions==4.12.2
 tzdata==2024.2
 wcwidth==0.2.13
